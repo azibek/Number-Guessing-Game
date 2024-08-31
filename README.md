@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgment
 
-This work has been part of a project listed at [roadmap.sh](https://roadmap.sh).
+This work has been part of a project listed at [roadmap.sh](https://roadmap.sh/projects/number-guessing-game).
